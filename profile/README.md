@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.jpg" alt="Web2Business - Digital systems for companies" width="100%">
+  <img src="./profile-banner.jpg" alt="Web2Business - Digital Excellence" width="100%">
 </p>
 
 <h1 align="center">Digital Excellence</h1>
