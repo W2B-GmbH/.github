@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="./profile-banner.jpg" alt="W2B - Digital systems for companies" width="100%">
+  <img src="./profile-banner.jpg" alt="Web2Business - Digital systems for companies" width="100%">
 </p>
 
 <h1 align="center">Digital systems for companies.</h1>
 
 <p align="center">
-  W2B designs, develops and operates digital platforms, websites, apps,
+  Web2Business designs, develops and operates digital platforms, websites, apps,
   applications and integrated systems for companies that need more than a
   standard web presence.
+</p>
+
+<p align="center">
+  <strong><a href="https://web2business.de/#kontakt">Discuss a project</a></strong>
 </p>
 
 ---
@@ -32,5 +36,6 @@ first consultation through launch and ongoing operation.
 ## Contact
 
 [web2business.de](https://web2business.de/) ·
+[Legal notice](https://web2business.de/impressum.html) ·
 [info@web2business.de](mailto:info@web2business.de) ·
 Rottenburg a. d. Laaber, Germany
