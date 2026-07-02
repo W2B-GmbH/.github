@@ -5,33 +5,33 @@
 <h1 align="center">Digital Excellence</h1>
 
 <p align="center">
-  Websites, E-Commerce &amp; Plattformen<br>
-  Performance &amp; Skalierung<br>
-  Barrierefreiheit &amp; Compliance
+  Websites, E-Commerce &amp; Platforms<br>
+  Performance &amp; Scaling<br>
+  Accessibility &amp; Compliance
 </p>
 
 <p align="center">
-  <strong><a href="https://web2business.de/#kontakt">Projekt besprechen</a></strong>
+  <strong><a href="https://web2business.de/#kontakt">Discuss a project</a></strong>
 </p>
 
 ---
 
 <p align="center">
-  Web2Business unterstützt Unternehmen bei der Planung, Entwicklung und
-  Weiterentwicklung digitaler Systeme: von Strategie und Architektur bis zur
-  Umsetzung, Integration und stabilem Betrieb.
+  Web2Business supports companies in planning, developing and evolving digital
+  systems: from strategy and architecture to implementation, integration and
+  reliable operation.
 </p>
 
 <table>
   <tr>
-    <td width="33%" valign="top"><strong>Strategie &amp; Architektur</strong><br><sub>Struktur, Zielbild und technische Grundlagen.</sub></td>
-    <td width="33%" valign="top"><strong>Websites &amp; Plattformen</strong><br><sub>Moderne CMS- und Unternehmenswebsites.</sub></td>
-    <td width="33%" valign="top"><strong>E-Commerce</strong><br><sub>Skalierbare Online-Geschäftsmodelle.</sub></td>
+    <td width="33%" valign="top"><strong>Strategy &amp; Architecture</strong><br><sub>Structure, target vision and technical foundations.</sub></td>
+    <td width="33%" valign="top"><strong>Websites &amp; Platforms</strong><br><sub>Modern CMS and corporate websites.</sub></td>
+    <td width="33%" valign="top"><strong>E-Commerce</strong><br><sub>Scalable online business models.</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><strong>Apps &amp; Webentwicklung</strong><br><sub>Web- und Mobile-Apps, Anwendungen und Portale.</sub></td>
-    <td width="33%" valign="top"><strong>Hosting &amp; Infrastruktur</strong><br><sub>Stabile Systeme für Betrieb und Wachstum.</sub></td>
-    <td width="33%" valign="top"><strong>Compliance &amp; Analyse</strong><br><sub>Barrierefreiheit, APIs, Daten und Conversion.</sub></td>
+    <td width="33%" valign="top"><strong>Apps &amp; Web Development</strong><br><sub>Web and mobile apps, applications and portals.</sub></td>
+    <td width="33%" valign="top"><strong>Hosting &amp; Infrastructure</strong><br><sub>Stable systems for operation and growth.</sub></td>
+    <td width="33%" valign="top"><strong>Compliance &amp; Analytics</strong><br><sub>Accessibility, APIs, data and conversion.</sub></td>
   </tr>
 </table>
 
